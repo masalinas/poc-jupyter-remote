@@ -37,4 +37,4 @@ deactivate
 ```
 
 
-![Remote Jupyter](captures/Remote_Jupyter "Remote Jupyter")
+![Remote Jupyter](captures/Remote_Jupyter.png "Remote Jupyter")
