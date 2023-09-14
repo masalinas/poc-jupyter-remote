@@ -36,5 +36,11 @@ jupyter notebook --no-browser --ip="192.168.0.250" --port=8888
 deactivate
 ```
 
+Open the remote Jupyter url in port configured when stat the server:
+
+```shell
+http://192.168.0.250:8888/notebooks/samples/matplotlib.ipynb
+
+```
 
 ![Remote Jupyter](captures/Remote_Jupyter.png "Remote Jupyter")
