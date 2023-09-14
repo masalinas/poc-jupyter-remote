@@ -24,7 +24,7 @@ pip3 install matplotlib
 pip3 install jupyter
 ```
 
-**STEP04**: start jupyter in remote mode:
+**STEP04**: start jupyter in remote mode, where ip is your local internal ip
 
 ```shell
 jupyter notebook --no-browser --ip="192.168.0.250" --port=8888
