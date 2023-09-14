@@ -35,3 +35,6 @@ jupyter notebook --no-browser --ip="192.168.0.250" --port=8888
 ```shell
 deactivate
 ```
+
+
+![Remote Jupyter](captures/Remote_Jupyter "Remote Jupyter")
